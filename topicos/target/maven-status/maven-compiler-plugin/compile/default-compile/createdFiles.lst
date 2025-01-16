@@ -1,0 +1,5 @@
+com/blog/topicos/TopicosApplication.class
+com/blog/topicos/entity/Topico.class
+com/blog/topicos/controller/TopicoController.class
+com/blog/topicos/repository/TopicoRepository.class
+com/blog/topicos/service/TopicoService.class
